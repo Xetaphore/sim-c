@@ -52,7 +52,7 @@ Bevor Sie weitergehen, gehen Sie bitte die Regeln in [CONTRIBUTING.md](./CONTRIB
 
 ## Lizenz
 
-sim-C ist unter der GNU General Public License (GPL) v3.0 lizenziert. [LICENSE](./LICENSE)
+sim-C ist unter der GNU General Public License (GPL) v3.0 lizenziert. [LIZENZ](./LICENSE)
 
 ## Das Team
 
